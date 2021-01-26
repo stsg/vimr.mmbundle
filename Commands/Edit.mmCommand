@@ -1,0 +1,7 @@
+{
+	name          = "Edit";
+	saveForEditing = 1;
+	command       = '#!/bin/sh\n"$MM_BUNDLE_SUPPORT/bin/edit" >/dev/null 2>&1 &';
+	keyEquivalent = "^O";
+	uuid          = "DA07B7AB-6FE4-4262-9A9D-5728760AFEFB";
+}
